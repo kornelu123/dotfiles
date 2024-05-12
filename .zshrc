@@ -110,3 +110,5 @@ alias dasm="objdump -M intel -d"
 alias asm_bg="feh --bg-scale ~/wallpapers/syscall_table.png"
 
 alias p3="python3"
+
+alias gowno="wine ~/.wine/drive_c/Program\ Files\ \(x86\)/PIWO\ Animation\ Editor\ Czech\ Republic\ 2015/PIWO_Editor.exe"
